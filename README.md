@@ -66,6 +66,24 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 
+ ## Kibana UI
+<div align="center">
+  <!-- Gambar pertama, lebih besar -->
+  <img src="https://github.com/AsrofunNiam/lets-code-central-logger/blob/00d2ebc2601cd9b15e358b600bcd9fc671a0a7a6/file/images/kibana_ui_logger_centrallized_1.png" alt="Kibana UI" width="70%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Dua gambar di bawah dengan ukuran yang lebih kecil -->
+  <img src="https://github.com/AsrofunNiam/lets-code-central-logger/blob/00d2ebc2601cd9b15e358b600bcd9fc671a0a7a6/file/images/kibana_ui_logger_centrallized_2.png" alt="Gambar Kedua" width="45%" />
+  <img src="https://github.com/AsrofunNiam/lets-code-central-logger/blob/00d2ebc2601cd9b15e358b600bcd9fc671a0a7a6/file/images/kibana_ui_logger_centrallized_3.png" alt="Gambar Ketiga" width="45%" />
+</div>
+
+
+## Please refer to the reading materials for further details
+
+
 ## Please refer to the reading materials for further details
 1. https://go.dev
 2. https://www.elastic.co
@@ -73,7 +91,7 @@ If you have run out of energy or time for your project, put a note at the top of
 1. https://app.swaggerhub.com/apis/lets_code/elastic/1.0.0
 
 ## Documentation Articles
-https://www.notion.so/lets-code-elastic-search-1-1392ffdf28e68000aa0ce5143f45badc?pvs=4
+1. https://www.notion.so/lets-code-elastic-search-1-1392ffdf28e68000aa0ce5143f45badc?pvs=4
 
 ## Set index
 1. Set index configuration: edge_gram.txt
